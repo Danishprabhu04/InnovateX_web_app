@@ -190,6 +190,7 @@ const Hero = () => {
             </blockquote>
           </div>
           
+          
           {/* Enhanced Countdown Timer */}
           <div className="mb-12 sm:mb-16 lg:mb-20">
             <CountdownTimer />
